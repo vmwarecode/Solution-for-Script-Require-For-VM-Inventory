@@ -1,0 +1,1 @@
+# Solution-for-Script-Require-For-VM-Inventory
